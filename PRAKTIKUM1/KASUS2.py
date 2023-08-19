@@ -1,0 +1,5 @@
+print("Muhammad", end=" ")
+print("Fadhil Abyansyah")
+print("Jurusan: Teknik Informatika")
+print("Universitas: Universitas Dian Nuswantoro")
+print("Motivasi: Saya ingin menjadi hacker")

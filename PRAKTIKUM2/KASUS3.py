@@ -1,0 +1,2 @@
+print("Eko")
+print("Joni")
